@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: #42dca3;
+    color: rgb(99, 225, 242);
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #1d9b6c;
+    color: rgb(74, 160, 191);
 }
 
 .light {
@@ -66,7 +66,7 @@ a:focus {
     border-bottom: 1px solid rgba(255,255,255,.3);
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #000;
+    background-color: rgb(102, 51, 51);
 }
 
 .navbar-custom .navbar-brand {
@@ -136,7 +136,7 @@ a:focus {
     .navbar-custom.top-nav-collapse {
         padding: 0;
         border-bottom: 1px solid rgba(255,255,255,.3);
-        background: #000;
+        background: rgb(102, 51, 51);
     }
 }
 
@@ -294,6 +294,18 @@ a:focus {
     }
 }
 
+.phoneNum{
+    background-color: rgb(134, 134, 134);
+
+    box-shadow: 
+        inset -2px 0 0 rgb(102, 51, 51),
+    inset 0 -2px 0 rgb(102, 51, 51), 
+        inset 2px 0 0 rgb(102, 51, 51), 
+        inset 0 2px 0 rgb(102, 51, 51);
+}
+
+
+
 .btn {
     border-radius: 0;
     text-transform: uppercase;
@@ -305,17 +317,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid rgb(99, 225, 242);
+    color: rgb(99, 225, 242);
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid rgb(99, 225, 242);
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: rgb(99, 225, 242);
 }
 
 ul.banner-social-buttons {
