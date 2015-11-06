@@ -150,6 +150,9 @@ function init() {
 
     // Create the Google Map using out element and options defined above
     var map = new google.maps.Map(mapElement, mapOptions);
+    map.addListener('click', function(){
+            window.open("https://www.google.com/maps/place/Ring+%26+Associates+PC/@40.5532179,-105.0694227,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xcb07afdde5fff2e5");
+    });
 
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     var image = 'img/map-marker.png';
