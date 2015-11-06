@@ -154,7 +154,7 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
-                    3px 3px 5px black;
+                    3px 3px 0px black;
 }
 
 .intro .intro-body {
