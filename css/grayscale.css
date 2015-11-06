@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgb(150, 180, 190);
+    color: rgb(160, 97, 148);
 }
 
 .light {
@@ -317,17 +317,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid rgb(99, 225, 242);
-    color: rgb(99, 225, 242);
+    border: 1px solid rgb(97, 105, 160);
+    color: rgb(97, 105, 160);
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid rgb(99, 225, 242);
+    border: 1px solid rgb(97, 105, 160);
     outline: 0;
     color: #000;
-    background-color: rgb(99, 225, 242);
+    background-color: rgb(97, 105, 160);
 }
 
 ul.banner-social-buttons {
