@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: rgb(99, 225, 242);
+    color: rgb(97, 105, 160);
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgb(74, 160, 191);
+    color: rgb(150, 180, 190);
 }
 
 .light {
