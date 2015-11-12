@@ -45,7 +45,7 @@ p {
 }
 
 a {
-    color: rgb(63, 81, 28);
+    color: rgb(183, 125, 125);
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -54,7 +54,7 @@ a {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: rgb(153, 171, 117);
+    color: rgb(142, 86, 86);
 }
 
 .light {
@@ -308,17 +308,17 @@ a:focus {
 }
 
 .btn-default {
-    border: 1px solid rgb(153, 171, 117);
-    color: rgb(153, 171, 117);
+    border: 1px solid rgb(183, 125, 125);
+    color: rgb(183, 125, 125);
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid rgb(153, 171, 117);
+    border: 1px solid rgb(183, 125, 125);
     outline: 0;
     color: #000;
-    background-color: rgb(153, 171, 117);
+    background-color: rgb(183, 125, 125);
 }
 
 ul.banner-social-buttons {
