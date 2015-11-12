@@ -262,6 +262,8 @@ a:focus {
 .content-section {
     padding-top: 100px;
     background: url(../img/boxers.jpg) no-repeat right top scroll;
+    text-shadow: 2px 2px 2px black,
+        2px 2px 5px black; 
 }
 
 .attorney-section {
