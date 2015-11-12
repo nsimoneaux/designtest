@@ -285,7 +285,6 @@ a:focus {
     background-size: cover;
     -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
-        2px 2px 5px black;
 }
 
 .attorney-bio-container{
@@ -402,4 +401,7 @@ body {
 }
 .media-body{
     text-align: left;
+}
+.well{
+    color: darkgray;
 }
