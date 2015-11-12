@@ -167,7 +167,7 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
-    font-size: 18px;
+    font-size: 32px;
 }
 
 @media(min-width:768px) {
@@ -290,7 +290,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/conferenceglass.jpg) no-repeat right bottom scroll;
+    background: url(../img/bobandmattconference.jpg) no-repeat right bottom scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
