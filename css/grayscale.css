@@ -386,6 +386,7 @@ body {
     list-style-type: none;
 }
 .attorneyPic{
-    width: 50%
+    width: 50%;
+    padding-bottom: 35px;
     
 }
