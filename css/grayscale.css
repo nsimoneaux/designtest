@@ -284,7 +284,20 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.contact-section{
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    /background: url(../img/conferenceglass.jpg) no-repeat right top scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
+        2px 2px 5px black; 
 }
 
 .attorney-bio-container{
