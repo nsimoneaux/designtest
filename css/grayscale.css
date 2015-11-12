@@ -261,7 +261,11 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
-    background: url(../img/boxers.jpg) no-repeat bottom scroll;
+}
+
+.about{
+    padding-top: 100px;
+     background: url(../img/boxers.jpg) no-repeat bottom scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
