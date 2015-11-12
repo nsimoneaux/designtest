@@ -261,6 +261,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+    background: url(../img/boxers.jpg) no-repeat right top scroll;
 }
 
 .attorney-section {
@@ -289,11 +290,11 @@ a:focus {
 
 @media(min-width:767px) {
     .content-section {
-        padding-top: 100px;
+        padding-top: 20px;
     }
 
     .attorney-section {
-        padding: 100px 0;
+        padding: 20px 0;
     }
 
     #map {
