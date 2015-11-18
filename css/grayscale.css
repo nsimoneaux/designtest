@@ -273,6 +273,14 @@ a:focus {
         2px 2px 5px black; 
 }
 
+.about .h2 {
+    font-size: 48px;
+}
+
+.about .p {
+    font-size: 24px;
+}
+
 .attorney-section {
     width: 100%;
     padding: 50px 0;
