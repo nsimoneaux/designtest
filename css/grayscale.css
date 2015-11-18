@@ -432,5 +432,6 @@ body {
 }
 .aboutText{
     position: absolute;
+    display:block;
     z-index: 1;
 }
