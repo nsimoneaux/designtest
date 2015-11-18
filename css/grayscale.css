@@ -428,8 +428,6 @@ body {
 }
 .slider{
     position: absolute;
-    height: available;
-    width: available;
 }
 .aboutText{
     position: absolute;
