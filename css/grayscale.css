@@ -427,7 +427,7 @@ body {
     padding-top: 50px;
 }
 .slider{
-    position: relative;
+    position: absolute;
     z-index: -1;
 }
 .aboutText{
