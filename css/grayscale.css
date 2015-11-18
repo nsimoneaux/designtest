@@ -431,5 +431,5 @@ body {
     z-index: -1;
 }
 .aboutText{
-    position: absolute;
+   /*  position: absolute;*/
 }
