@@ -147,7 +147,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/conferenceglass.jpg) no-repeat right bottom scroll;
+    background: url(../img/conferenceglass.jpg) no-repeat right     bottom scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -163,11 +163,11 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 40px;
+    font-size: 60px;
 }
 
 .intro .intro-body .intro-text {
-    font-size: 20px;
+    font-size: 30px;
 }
 
 @media(min-width:768px) {
@@ -176,12 +176,12 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 84px;
+        font-size: 100px;
         padding-top: 25px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 32px;
+        font-size: 64px;
     }
 }
 
