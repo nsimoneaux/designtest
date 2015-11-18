@@ -185,7 +185,21 @@
     <script src="js/grayscale.js"></script>
     <script>
     $(document).ready(function(){
-        $(".owl-carousel").owlCarousel();
+        $(".owl-carousel").owlCarousel({
+            autoWidth:true,
+            responsiveClass:true,
+            responsive:{
+            0:{
+                nav:false
+            },
+            600:{
+                nav:false
+            },
+            1000:{
+                nav:false,
+        }
+    }
+        });
     });
     </script>
     </span>
