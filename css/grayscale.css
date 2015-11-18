@@ -431,4 +431,5 @@ body {
 }
 .owl-carousel{
     position: abosolute;
+    z-index: -1;
 }
