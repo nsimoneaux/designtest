@@ -180,12 +180,12 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 96px;
+        font-size: 80px;
         padding-top: 25px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 48px;
+        font-size: 40px;
     }
 }
 
