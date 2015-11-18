@@ -433,6 +433,7 @@ body {
 }
 .slider{
     position: absolute;
+    resize: inherit;
 }
 .aboutText{
     position: absolute;
