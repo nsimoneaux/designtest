@@ -269,11 +269,6 @@ a:focus {
 
 .about{
     padding-top: 150px;
-     background: url(../img/boxers.jpg) no-repeat bottom scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black; 
 }
