@@ -434,3 +434,6 @@ body {
 .aboutHeading{
     padding-top: 50px;
 }
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
