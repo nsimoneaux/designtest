@@ -273,14 +273,6 @@ a:focus {
         2px 2px 5px black; 
 }
 
-.about .h2 {
-    font-size: 48px;
-}
-
-.about .p {
-    font-size: 24px;
-}
-
 .attorney-section {
     width: 100%;
     padding: 50px 0;
@@ -436,4 +428,14 @@ body {
 }
 .carousel-inner > .item > img {
     margin: 0 auto;
+}
+
+.carousel-caption{
+    text-shadow: 2px 2px 2px black;
+}
+.carousel-caption > h2 {
+   font-size: 40px; 
+}
+.carousel-caption > p {
+    font-size: 20px;
 }
