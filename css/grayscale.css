@@ -429,8 +429,6 @@ body {
 .slider{
     position: relative;
     z-index: -1;
-    height: inherit;
-    width: inherit;
 }
 .aboutText{
     position: absolute;
