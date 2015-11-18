@@ -433,8 +433,8 @@ body {
 }
 .slider{
     position: absolute;
-    height: inherit;
-    width: inherit;
+    height: available;
+    width: available;
 }
 .aboutText{
     position: absolute;
