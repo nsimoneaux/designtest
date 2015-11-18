@@ -426,3 +426,9 @@ body {
 .aboutHeading{
     padding-top: 50px;
 }
+.restOfAbout{
+    position: absolute;
+}
+.owl-carousel{
+    position: abosolute;
+}
