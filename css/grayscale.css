@@ -427,11 +427,9 @@ body {
     padding-top: 50px;
 }
 .slider{
-    position: absolute;
-    top: inherit;
-    left:inherit;
+    position: relative;
     z-index: -1;
 }
 .aboutText{
-   /*  position: absolute;*/
+    position: absolute;
 }
