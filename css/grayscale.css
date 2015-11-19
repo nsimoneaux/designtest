@@ -178,6 +178,7 @@ a:focus {
     .intro {
         height: 100%;
         display: table;
+        width: 100%
     }
 
     .intro .intro-body{
