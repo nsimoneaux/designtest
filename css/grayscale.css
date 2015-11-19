@@ -453,7 +453,7 @@ body {
 }
 
 .slide2{
-    width: 100%;
+    width: 75%;
 }
 
 @media(max-width:768px){
@@ -477,6 +477,9 @@ body {
     }
     .slide1 > p {
         font-size: 16px;
+    }
+    .slide2 > p {
+        font-size: 14px;
     }
     
 }
