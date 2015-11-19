@@ -451,15 +451,18 @@ body {
     top: 35%;
     bottom: auto; 
     background: url(../img/bobzoom.jpg) no-repeat center center scroll;
+    height: 500px;
 }
 
 .slide2{
     background: url(../img/boxer.jpg) no-repeat center center scroll;
+    height: 500px;
 }
 .slide2 > p{
     font-size: 20px;
 }
 .slide3 {
+    height: 500px;
     top: 0;
     bottom: auto;
     left: 10%;
