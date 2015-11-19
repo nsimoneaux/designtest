@@ -448,7 +448,7 @@ body {
 }*/
 
 .slide1{
-    top: 200;
+    top: 50%;
     bottom: auto; 
 }
 
@@ -469,7 +469,7 @@ body {
     }
     
     .slide1{
-        top: 0;
+        top: 50%;
         bottom:auto;
     }
     
