@@ -455,7 +455,7 @@ body {
 .slide2{
 }
 .slide2 > p{
-    font-size: 20px;
+    font-size: 24px;
 }
 .slide3 {
     top: 0;
@@ -510,5 +510,6 @@ body {
 }
 #about-carousel .carousel-inner .item {
     width: 100%;
+    height: auto;
 
 }
