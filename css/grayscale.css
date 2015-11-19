@@ -453,6 +453,10 @@ body {
     .carousel-caption > p {
         font-size: 16px;
     }
+    #about-carousel .carousel-inner .item {
+    width: 100%;
+    height: auto;
+}
     
 }
 #about-carousel .carousel-inner .item {
