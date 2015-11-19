@@ -448,11 +448,14 @@ body {
 }*/
 
 .slide1{
-    top: 30%;
+    top: 35%;
     bottom: auto; 
 }
 .slide2 > p{
-    font-size: 18px;
+    font-size: 24px;
+}
+.slide3 > p{
+    font-size: 16px;
 }
 
 @media(max-width:768px){
