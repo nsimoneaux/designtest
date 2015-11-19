@@ -300,6 +300,11 @@ a:focus {
     position: relative;
     display: table;
     margin: 0 auto;
+    padding-bottom: 25px;
+}
+
+.bio > p {
+        text-align: left;
 }
 
 .contact-section{
