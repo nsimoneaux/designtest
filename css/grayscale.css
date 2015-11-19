@@ -302,6 +302,7 @@ a:focus {
     margin: 0 auto;
     padding-bottom: 25px;
     border-radius: 10px;
+    display: block;
 }
 
 .bio > p {
