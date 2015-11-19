@@ -290,6 +290,9 @@ a:focus {
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
 }
+.attorney-section > h3 {
+    font-size: 32px;
+}
 
 .contact-section{
     width: 100%;
