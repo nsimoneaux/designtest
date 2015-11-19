@@ -468,6 +468,11 @@ body {
     height: auto;
     }
     
+    .slide1{
+        top: 0;
+        bottom:auto;
+    }
+    
 }
 #about-carousel .carousel-inner .item {
     width: 100%;
