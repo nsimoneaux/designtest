@@ -168,7 +168,8 @@ a:focus {
 
 .intro .intro-body .brand-heading {
     font-size: 30px;
-    text-decoration: underline;
+    border-bottom: 1px solid #FFF;
+    padding-bottom: 3px;
 }
 
 .intro .intro-body .intro-text {
