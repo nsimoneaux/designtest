@@ -274,10 +274,10 @@ a:focus {
 }
 
 .attorney-section {
-    width: 100%;
+    width: 80%;
     padding: 50px 0;
     color: #fff;
-    /*background: url(../img/conferenceglass.jpg) no-repeat right top scroll;*/
+    background: url(../img/table.jpg) no-repeat bottom fixed;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
