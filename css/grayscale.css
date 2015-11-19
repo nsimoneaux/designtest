@@ -298,6 +298,8 @@ a:focus {
     background-color: rgba(255,255,255,.5);
     width: 80%;
     position: relative;
+    display: table;
+    margin: 0 auto;
 }
 
 .contact-section{
