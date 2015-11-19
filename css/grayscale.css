@@ -452,6 +452,10 @@ body {
     bottom: auto;
 }
 
+.slide2{
+    width: 100%;
+}
+
 @media(max-width:768px){
     .carousel-caption > h2 {
         font-size: 32px; 
