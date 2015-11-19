@@ -448,15 +448,15 @@ body {
 }*/
 
 .slide1{
+    height: 500px;
     top: 35%;
     bottom: auto; 
     background: url(../img/bobzoom.jpg) no-repeat center center scroll;
-    height: 500px;
 }
 
 .slide2{
-    background: url(../img/boxer.jpg) no-repeat center center scroll;
     height: 500px;
+    background: url(../img/boxer.jpg) no-repeat center center scroll;
 }
 .slide2 > p{
     font-size: 20px;
@@ -474,13 +474,6 @@ body {
     font-size: 24px;
 }
 
-
-@media(max-width:400px){
-    .slide3{
-        top:0;
-        bottom:auto;
-    }
-}
 
 @media(max-width:768px){
     .carousel-caption > h2 {
@@ -524,8 +517,8 @@ body {
 #about-carousel .carousel-inner .item {
     width: 100%;
     height: 500px;
-    -webkit-background-size: 100%;
-    -moz-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
