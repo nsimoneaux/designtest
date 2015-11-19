@@ -495,6 +495,9 @@ body {
         top: 50%;
         bottom: auto;
     }
+    .slide3 > p {
+        font-size: 24px;
+    }
     
 }
 #about-carousel .carousel-inner .item {
