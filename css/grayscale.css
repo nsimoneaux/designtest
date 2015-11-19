@@ -144,7 +144,7 @@ a:focus {
 }
 
 .intro {
-    display: block;
+    display: table;
     width: 100%;
     height: auto;
     padding: 100px 0;
@@ -162,28 +162,23 @@ a:focus {
 }
 
 .intro .intro-body {
-    display: block;
+    display: table-cell;
     vertical-align: middle;
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 60px;
+    font-size: 30px;
 }
 
 .intro .intro-body .intro-text {
-    font-size: 30px;
+    font-size: 18px;
 }
 
 @media(min-width:768px) {
     .intro {
         height: 100%;
-        display: table;
-        width: 100%
     }
 
-    .intro .intro-body{
-        display:table-cell;
-    }
     .intro .intro-body .brand-heading {
         font-size: 64px;
         padding-top: 25px;
@@ -463,7 +458,6 @@ body {
     width: 100%;
     height: auto;
     }
-    
     
 }
 #about-carousel .carousel-inner .item {
