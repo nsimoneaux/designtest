@@ -275,7 +275,7 @@ a:focus {
 
 .attorney-section {
     width: 100%;
-    padding: 50px 0;
+    padding-top: 50px;
     color: #fff;
     /*background: url(../img/conferenceglass.jpg) no-repeat right top scroll;*/
     background-color: #000;
@@ -315,7 +315,7 @@ a:focus {
     }
 
     .attorney-section {
-        padding: 50px 0;
+        padding-top: 50px;
     }
 
     #map {
