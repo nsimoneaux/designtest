@@ -478,11 +478,13 @@ body {
         font-size: 16px;
     }
     .slide2 {
-        top: 0;
-        botttom: auto;
+        vertical-align: middle;
     }
     .slide2 > p {
         font-size: 14px;
+    }
+    .slide3 {
+        top 
     }
     
 }
