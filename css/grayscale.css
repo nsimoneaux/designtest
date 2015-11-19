@@ -458,6 +458,7 @@ body {
     top: 0;
     bottom: auto;
     left: 0;
+    text-align: left;
 }
 
 .slide3 > p{
