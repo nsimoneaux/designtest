@@ -469,7 +469,7 @@ body {
 }
 
 
-@media(max-width:768px){
+@media(max-width:500px){
     .carousel-caption > h2 {
         font-size: 32px; 
     }
@@ -482,14 +482,14 @@ body {
     }
     
     .slide1{
-        top: 10%;
+        top: 0;
         bottom:auto;
     }
     .slide1 > h2 {
-        font-size: 16px;
+        font-size: 20px;
     }
     .slide1 > p {
-        font-size: 14px;
+        font-size: 16px;
     }
     .slide2 {
         top: 0;
