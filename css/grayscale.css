@@ -449,7 +449,8 @@ body {
         font-size: 16px;
     }
     .carousel-caption{
-        top: auto;
+        top: 0;
+        botttom: auto;
     }
     
 }
