@@ -144,7 +144,7 @@ a:focus {
 }
 
 .intro {
-    display: table;
+    display: block;
     width: 100%;
     height: auto;
     padding: 100px 0;
@@ -162,7 +162,7 @@ a:focus {
 }
 
 .intro .intro-body {
-    display: table-cell;
+    display: block;
     vertical-align: middle;
 }
 
@@ -177,8 +177,12 @@ a:focus {
 @media(min-width:768px) {
     .intro {
         height: 100%;
+        display: table;
     }
 
+    .intro .intro-body{
+        display:table-cell;
+    }
     .intro .intro-body .brand-heading {
         font-size: 64px;
         padding-top: 25px;
@@ -457,7 +461,8 @@ body {
     #about-carousel .carousel-inner .item {
     width: 100%;
     height: auto;
-}
+    }
+    
     
 }
 #about-carousel .carousel-inner .item {
