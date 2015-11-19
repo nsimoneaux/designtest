@@ -466,6 +466,13 @@ body {
 }
 
 
+@media(max-width:400px){
+    .slide3{
+        top:0;
+        bottom:auto;
+    }
+}
+
 @media(max-width:768px){
     .carousel-caption > h2 {
         font-size: 32px; 
