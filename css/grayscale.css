@@ -305,6 +305,7 @@ a:focus {
 
 .bio > p {
         text-align: left;
+        margin: 10px;
 }
 
 .contact-section{
