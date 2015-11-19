@@ -266,6 +266,9 @@ a:focus {
 .content-section {
     /*padding-top: 100px;*/
 }
+.contact-section{
+    padding-top: 50px;
+}
 
 .about{
     padding-top: 50px;
