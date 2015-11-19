@@ -162,7 +162,7 @@ a:focus {
 }
 
 .intro .intro-body {
-    display: table;
+    display: table-cell;
     vertical-align: middle;
 }
 
