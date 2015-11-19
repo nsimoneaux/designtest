@@ -294,6 +294,10 @@ a:focus {
     font-size: 32px;
 }
 
+.bio {
+    background-color: rgba(255,255,255,.3);
+}
+
 .contact-section{
     width: 100%;
     padding: 50px 0;
