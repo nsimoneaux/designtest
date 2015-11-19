@@ -495,11 +495,11 @@ body {
         font-size: 14px;
     }
     .slide3 {
-        top: 20%;
+        top: 25%;
         bottom: auto;
     }
     .slide3 > p {
-        font-size: 30px;
+        font-size: 40px;
     }
     
 }
