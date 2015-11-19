@@ -455,12 +455,15 @@ body {
     font-size: 20px;
 }
 .slide3 {
-    top: 
+    top: 0;
+    bottom: auto;
+    left: 0;
 }
 
 .slide3 > p{
     font-size: 24px;
 }
+
 
 @media(max-width:768px){
     .carousel-caption > h2 {
@@ -492,11 +495,11 @@ body {
         font-size: 14px;
     }
     .slide3 {
-        top: 0;
+        top: 20%;
         bottom: auto;
     }
     .slide3 > p {
-        font-size: 24px;
+        font-size: 30px;
     }
     
 }
