@@ -448,7 +448,7 @@ body {
 }*/
 
 .slide1{
-    top: 20%;
+    top: 30%;
     bottom: auto; 
 }
 
@@ -471,6 +471,12 @@ body {
     .slide1{
         top: 10%;
         bottom:auto;
+    }
+    .slide1 > h2 {
+        font-size: 24px;
+    }
+    .slide1 > p {
+        font-size: 16px;
     }
     
 }
