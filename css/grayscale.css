@@ -500,10 +500,10 @@ body {
         bottom: auto;
     }
     .slide2 > p {
-        font-size: 16px;
+        font-size: 14px;
     }
     .slide3 {
-        top: 30%;
+        top: 0;
         bottom: auto;
         text-align: center;
     }
