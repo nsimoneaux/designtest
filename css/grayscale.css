@@ -150,7 +150,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/conferenceglass.jpg) no-repeat right bottom scroll;
+    background: url(../img/conferenceglass.jpg) no-repeat right bottom fixed;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -450,11 +450,11 @@ body {
 .slide1{
     top: 35%;
     bottom: auto; 
-    background: url(../img/bobzoom.jpg) no-repeat center center fixed;
+    background: url(../img/bobzoom.jpg) no-repeat center center scroll;
 }
 
 .slide2{
-    background: url(../img/boxer.jpg) no-repeat center center fixed;
+    background: url(../img/boxer.jpg) no-repeat center center scroll;
 }
 .slide2 > p{
     font-size: 20px;
@@ -464,7 +464,7 @@ body {
     bottom: auto;
     left: 10%;
     text-align: left;
-    background: url(../img/everyone.jpg) no-repeat center center fixed;
+    background: url(../img/everyone.jpg) no-repeat center center scroll;
 }
 
 .slide3 > p{
