@@ -450,6 +450,11 @@ body {
 .slide1{
     top: 35%;
     bottom: auto; 
+    background: url(img/bobzoom.jpg) no-repeat center center fixed;
+}
+
+.slide2{
+    background: url(img/boxer.jpg) no-repeat center center fixed;
 }
 .slide2 > p{
     font-size: 20px;
@@ -459,6 +464,7 @@ body {
     bottom: auto;
     left: 10%;
     text-align: left;
+    background: url(img/everyone.jpg) no-repeat center center fixed;
 }
 
 .slide3 > p{
@@ -515,4 +521,8 @@ body {
 #about-carousel .carousel-inner .item {
     width: 100%;
     height: auto;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
