@@ -170,6 +170,7 @@ a:focus {
     font-size: 30px;
     border-bottom: 1px solid #FFF;
     padding-bottom: 3px;
+    border-bottom: 3px solid #000;
 }
 
 .intro .intro-body .intro-text {
