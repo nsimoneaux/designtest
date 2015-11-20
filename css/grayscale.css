@@ -491,8 +491,8 @@ body {
 }*/
 
 .slide1{
-    top: 50%;
-    bottom: auto; 
+    top: auto;
+    bottom: 100%; 
 }
 
 .slide2{
@@ -525,8 +525,8 @@ body {
     }
     
     .slide1{
-        top: 40%;
-        bottom:auto;
+        top: auto;
+        bottom:100%;
     }
     .slide1 > p {
         font-size: 14px;
