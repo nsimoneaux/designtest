@@ -498,6 +498,7 @@ body {
 }
 
 .slide2{
+    vertical-align: center;
 }
 .slide2 > p{
     font-size: 24px;
