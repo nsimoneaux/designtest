@@ -455,12 +455,23 @@ body {
 
 .attorneyHeader{
     padding-top: 20px;
-    font-size: 48px;
+    font-size: 32px;
 }
 .aboutHeading{
     padding-top: 20px;
     text-align: center;
+    font-size: 32px;
 }
+
+@media(max-width:600px){
+    .attorneyHeader{
+        font-size: 20px;
+    }
+    .aboutHeading{
+        font-size: 20px;
+    }
+}
+
 .carousel-inner > .item > img {
     margin: 0 auto;
     width: 100%;
@@ -515,7 +526,7 @@ body {
         bottom:auto;
     }
     .slide1 > p {
-        font-size: 16px;
+        font-size: 14px;
     }
     .slide2 {
         top: 0;
