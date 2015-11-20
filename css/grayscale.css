@@ -493,6 +493,7 @@ body {
 .slide1{
     top: auto;
     bottom: 0; 
+    font-size: 32px;
 }
 
 .slide2{
