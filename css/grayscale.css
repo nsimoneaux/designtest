@@ -497,6 +497,8 @@ body {
 
 .slide2{
     vertical-align: center;
+    top: 20%;
+    bottom: auto;
 }
 .slide2 > p{
     font-size: 24px;
@@ -523,7 +525,7 @@ body {
     }
     
     .slide1{
-        top: 0;
+        top: 40%;
         bottom:auto;
     }
     .slide1 > p {
