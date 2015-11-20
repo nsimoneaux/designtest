@@ -175,6 +175,12 @@ a:focus {
     box-shadow: 2px 2px 5px #000;*/
 }
 
+.intro > em {
+    text-decoration: underline;
+    text-decoration-color: white;
+    
+}
+
 .intro .intro-body .intro-text {
     font-size: 18px;
 }
