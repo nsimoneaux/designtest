@@ -492,7 +492,7 @@ body {
 
 .slide1{
     top: auto;
-    bottom: 100%; 
+    bottom: 0; 
 }
 
 .slide2{
