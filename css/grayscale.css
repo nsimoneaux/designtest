@@ -469,9 +469,6 @@ body {
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
 }
-.carousel-caption > h2 {
-   font-size: 48px; 
-}
 .carousel-caption > p {
     font-size: 24px;
 }
@@ -504,9 +501,6 @@ body {
 
 
 @media(max-width:600px){
-    .carousel-caption > h2 {
-        font-size: 32px; 
-    }
     .carousel-caption > p {
         font-size: 16px;
     }
@@ -518,9 +512,6 @@ body {
     .slide1{
         top: 0;
         bottom:auto;
-    }
-    .slide1 > h2 {
-        font-size: 20px;
     }
     .slide1 > p {
         font-size: 16px;
