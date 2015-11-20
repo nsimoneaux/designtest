@@ -175,7 +175,7 @@ a:focus {
     box-shadow: 2px 2px 5px #000;*/
 }
 
-.intro .intro-body .p .em {
+.intro .intro-body > p > em {
     text-decoration: underline;
     text-decoration-color: white;
     
