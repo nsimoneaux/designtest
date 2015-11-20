@@ -491,8 +491,10 @@ body {
 }*/
 
 .slide1{
-    top: 40%;
+    top: 50%;
     bottom: auto; 
+    width: 80;
+    margin:0 auto;
 }
 
 .slide2{
