@@ -459,6 +459,7 @@ body {
 }
 .aboutHeading{
     padding-top: 50px;
+    text-align: center;
 }
 .carousel-inner > .item > img {
     margin: 0 auto;
