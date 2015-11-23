@@ -296,7 +296,7 @@ a:focus {
         2px 2px 5px black;
     padding-bottom: 25px;
 }
-.attorney-section > h3 {
+.attorneyName {
     font-size: 24px;
     padding-top: 5px;
     background-color: rgb(102, 51, 51);
