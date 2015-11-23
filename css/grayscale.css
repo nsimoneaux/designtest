@@ -390,6 +390,7 @@ a:focus {
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
     text-shadow: none;
+    width: 300px;
 }
 
 .btn-default {
