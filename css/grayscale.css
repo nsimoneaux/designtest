@@ -647,7 +647,7 @@ body {
 
 .practice-section > div > ul {
     list-style: none;
-    text-align: center;
+    text-align: left;
 }
 .practice-section >div > ul > li {
     margin: 10px;
