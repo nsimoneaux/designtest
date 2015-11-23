@@ -512,7 +512,7 @@ body {
     .practice-section > h2 {
     padding-top: 50px;
     font-size: 24px;
-}
+    }
 
 }
 
@@ -626,7 +626,6 @@ body {
 }
 
 .practice-section{
-    display: table;
     width: 100%;
     height: auto;
     text-align: center;
