@@ -294,6 +294,7 @@ a:focus {
     border: 1px solid white;
     padding: 2px;
     margin: 10px auto;
+    text-align: center;
 }
 
 .attorney-section {
