@@ -390,13 +390,13 @@ a:focus {
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
     text-shadow: none;
-    width: 300px;
 }
 
 .btn-default {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
     background-color: white;
+        width: 300px;
 }
 
 .btn-default:hover,
