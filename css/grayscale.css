@@ -151,6 +151,7 @@ a:focus {
     text-align: center;
     color: #fff;
     background: url(../img/scenery.jpg) no-repeat center fixed;
+    background-position: center;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
