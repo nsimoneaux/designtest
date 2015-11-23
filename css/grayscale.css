@@ -305,9 +305,7 @@ a:focus {
     width: 80%;
     position: relative;
     display: table;
-    margin: 0 auto;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    margin: 10px auto;
     display: block;
     border: double
 }
