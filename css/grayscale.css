@@ -297,6 +297,7 @@ a:focus {
 }
 .attorney-section > h3 {
     font-size: 24px;
+    padding-top: 5px;
 }
 
 .bio {
