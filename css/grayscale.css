@@ -598,18 +598,3 @@ body {
     margin-bottom: 0;
    border: double #ffffff;
 }
-
-.aboutTableCell > p {
-    font-size: 14px;
-    border-right: 1px single white;
-    border-left: 1px single white;
-}
-
-.aboutTable {
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
-
-.imageRow{
-    background-color: white;
-}
