@@ -395,7 +395,7 @@ a:focus {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
     background-color: white;
-        width: 300px;
+        width: 20%;
 }
 
 .btn-default:hover,
