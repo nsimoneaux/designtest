@@ -582,7 +582,7 @@ body {
 
 #about-carousel .carousel-inner .item {
     width: auto;
-    height: 65%;
+    height: 60%;
 }
 
 @media(max-width:600px){
