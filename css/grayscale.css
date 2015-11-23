@@ -300,7 +300,6 @@ a:focus {
     padding: 4px;
     margin: 10px auto;
     text-align: center;
-    display: block;
 }
 .imageRow > img {
     padding: 5px;
@@ -653,7 +652,7 @@ body {
         2px 2px 5px black,
         2px 2px 10px black;
     padding-bottom: 25px;
-    margin-bottom:50px;
+    margin-bottom:20px;
 }
 
 .practice-section > h2 {
