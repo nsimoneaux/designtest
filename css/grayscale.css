@@ -458,8 +458,6 @@ body {
 .attorneyHeader{
     padding-top: 20px;
     font-size: 32px;
-    background-color: black;
-    border: 1px solid white;
 }
 .aboutHeading{
     padding-top: 20px;
@@ -563,7 +561,4 @@ body {
 .headshot{
    margin: 25px;
    border: 4px double #ffffff;
-   background-color:#ff0;
-    border-radius: 10px;
-    padding-top: 25px;
 }
