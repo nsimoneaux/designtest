@@ -272,6 +272,7 @@ a:focus {
 .content-section {
     /*padding-top: 100px;*/
 }
+
 .contact-section{
     padding-top: 50px;
 }
@@ -298,16 +299,17 @@ a:focus {
     margin-bottom:20px;
     margin-top:20px;
 }
+
 .attorneyName {
     padding-top: 5px;
     text-decoration: underline;
     text-decoration-color: white;
 }
+
 .attorneyName > h3 {
     margin: 4px;
     font-size: 32px;
 }
-
 
 .bio {
     background-color: rgba(102, 51, 51, .95);
@@ -365,8 +367,6 @@ a:focus {
         margin-top: 100px;
     }
 }
-
-
 
 .btn {
     border-radius: 0;
@@ -449,13 +449,16 @@ body {
 .phoneNum{
     list-style-type: none;
 }
+
 .attorneyPic{
     padding-bottom: 25px;
     
 }
+
 .media-body{
     text-align: left;
 }
+
 .well{
     color: white;
     text-shadow: none; 
@@ -466,6 +469,7 @@ body {
     margin: 20px;
     font-size: 40px;
 }
+
 .aboutHeading{
     padding-top: 20px;
     text-align: center;
@@ -476,13 +480,16 @@ body {
     .attorneyHeader{
         font-size: 24px;
     }
+    
     .aboutHeading{
         font-size: 24px;
     }
+    
     .attorneyName > h3 {
     margin: 4px;
     font-size: 20px;
     }
+    
 }
 
 .carousel-inner > .item > img {
@@ -494,6 +501,7 @@ body {
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
 }
+
 .carousel-caption > p {
     font-size: 24px;
 }
@@ -514,29 +522,33 @@ body {
     top: 35%;
     bottom: auto;
 }
+
 .slide2 > p{
     font-size: 32px;
 }
+
 .slide3 {
     top: 15%;
     bottom: auto;
     
 }
+
 .slide3 > p {
     font-size: 36px;
     
 }
+
 .slide4 {
     bottom: 0;
     top: auto;
     font-size: 30px;
 }
 
-
 @media(max-width:600px){
     .carousel-caption > p {
         font-size: 16px;
     }
+    
     #about-carousel .carousel-inner .item {
     width: 100%;
     height: auto;
@@ -546,47 +558,58 @@ body {
         top: auto;
         bottom: 0;
     }
+    
     .slide1 > p {
         font-size: 14px;
     }
+    
     .slide2 {
         top: 0;
         bottom: auto;
     }
+    
     .slide2 > p {
         font-size: 14px;
     }
+    
     .slide3 {
         top: 0;
         bottom: auto;
     }
+    
     .slide3 > p {
         font-size: 16px;
     }
+    
     .slide4 > p {
         font-size: 16px;
     }
     
 }
+
 #about-carousel .carousel-inner .item {
     width: 100%;
     height: auto;
 
 }
+
 .headshot{
    margin: 10px;
     margin-bottom: 0;
    border: double #ffffff;
 }
+
 .aboutTableCell > p {
     font-size: 14px;
     border-right: 1px single white;
     border-left: 1px single white;
 }
+
 .aboutTable {
     margin-top: 10px;
     margin-bottom: 10px;
 }
+
 .imageRow{
     background-color: white;
 }
