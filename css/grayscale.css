@@ -394,7 +394,7 @@ a:focus {
 .btn-default {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
-    background-color: transparent;
+    background-color: white;
 }
 
 .btn-default:hover,
@@ -650,4 +650,5 @@ body {
 }
 .practice-section >div > ul > li {
     margin: 10px;
+    box-shadow: 2px 2px 5px white;
 }
