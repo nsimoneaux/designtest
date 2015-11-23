@@ -303,6 +303,7 @@ a:focus {
     border: single white;
     padding: 2px;
     text-shadow: none;
+    display: inline;
 }
 
 
