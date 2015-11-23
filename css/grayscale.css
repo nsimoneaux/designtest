@@ -283,6 +283,18 @@ a:focus {
         2px 2px 5px black; 
 }
 
+.about > p {
+    font-size: 14px;
+    list-style: circle;
+}
+
+.imageRow{
+    background-color: white;
+    border: 1px solid white;
+    padding: 2px;
+    margin: 10px auto;
+}
+
 .attorney-section {
     text-align: center;
     width: 100%;
