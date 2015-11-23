@@ -286,7 +286,7 @@ a:focus {
 .about > p {
     font-size: 20px;
     list-style: circle;
-    text-align: center;
+    text-align: left;
 }
 
 .imageRow{
