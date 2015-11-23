@@ -304,6 +304,9 @@ a:focus {
     text-decoration-color: white;
     text-shadow: none;
 }
+.attorneyName > h3 {
+    margin: 4px;
+}
 
 
 .bio {
