@@ -318,7 +318,7 @@ a:focus {
 
 .bio > p {
         text-align: left;
-        margin: 10px;
+        margin:0 10px 0 10px;
         font-size: 16px;
         text-indent: 25px;
         text-shadow: none;
