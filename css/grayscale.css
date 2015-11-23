@@ -283,7 +283,7 @@ a:focus {
         2px 2px 5px black; 
 }
 
-.about > p {
+.about ul > li > p {
     font-size: 20px;
     list-style: circle;
     text-align: left;
@@ -508,7 +508,7 @@ body {
     font-size: 20px;
     }
     
-    .about > p{
+    .about > ul > li > p{
         font-size: 14px;
     }
     
