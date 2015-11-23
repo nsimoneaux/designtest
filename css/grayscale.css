@@ -295,6 +295,8 @@ a:focus {
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
     padding-bottom: 25px;
+    margin-bottom:20px;
+    margin-top:20px;
 }
 .attorneyName {
     padding-top: 5px;
