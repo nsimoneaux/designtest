@@ -301,7 +301,7 @@ a:focus {
 }
 
 .bio {
-    background-color: rgba(102, 51, 51, 0.71);
+    background-color: rgba(102, 51, 51, 0.85);
     width: 80%;
     position: relative;
     display: table;
@@ -559,7 +559,7 @@ body {
 
 }
 .headshot{
-   padding: 4 px;
+   padding: 25px;
    border: 1px double #ffffff;
    background-color:#ff0;
 }
