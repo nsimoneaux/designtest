@@ -287,6 +287,7 @@ a:focus {
     font-size: 20px;
     list-style: circle;
     text-align: left;
+    list-style-position: 
 }
 
 .imageRow{
@@ -314,7 +315,6 @@ a:focus {
         2px 2px 5px black;
     padding-bottom: 25px;
     margin-bottom:20px;
-    margin-top:20px;
 }
 
 .attorneyName {
@@ -506,7 +506,7 @@ body {
     .about > ul > li > p{
         font-size: 14px;
     }
-    
+
 }
 
 .carousel-inner > .item > img {
