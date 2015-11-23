@@ -306,6 +306,7 @@ a:focus {
 }
 .attorneyName > h3 {
     margin: 4px;
+    font-size: 32px;
 }
 
 
@@ -464,12 +465,12 @@ body {
 
 .attorneyHeader{
     padding-top: 20px;
-    font-size: 32px;
+    font-size: 40px;
 }
 .aboutHeading{
     padding-top: 20px;
     text-align: center;
-    font-size: 32px;
+    font-size: 40px;
 }
 
 @media(max-width:600px){
