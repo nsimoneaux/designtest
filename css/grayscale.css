@@ -561,10 +561,9 @@ body {
 
 }
 .headshot{
-   padding: 25px;
-   border: 1px double #ffffff;
+   margin: 25px;
+   border: 4px double #ffffff;
    background-color:#ff0;
-}
     border-radius: 10px;
     padding-top: 25px;
 }
