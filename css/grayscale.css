@@ -309,6 +309,7 @@ a:focus {
     padding-bottom: 15px;
     padding-top: 15px;
     display: block;
+    border-radius: 10px;
 }
 
 .bio > p {
@@ -558,5 +559,6 @@ body {
 
 }
 .headshot{
-    padding-top: 25px;
+    /*padding-top: 25px;*/
+    border-radius: 10px;
 }
