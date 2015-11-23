@@ -313,7 +313,7 @@ a:focus {
 
 .bio > p {
         text-align: left;
-        margin: 10px;
+        margin: 10px auto;
         font-size: 16px;
         text-indent: 25px;
 }
@@ -322,7 +322,7 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/building1920.jpg) no-repeat bottom right scroll;
+    background: url(../img/building1920.jpg) no-repeat bottom    scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -333,7 +333,7 @@ a:focus {
 }
 
 .attorney-bio-container{
-    box-shadow: 2px 2px 5px white;
+    background-color: black;
 }
 
 #map {
