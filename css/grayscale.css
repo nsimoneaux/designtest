@@ -306,10 +306,10 @@ a:focus {
     color: #fff;
     background: url(../img/conferenceglass.jpg) no-repeat bottom scroll;
     background-color: #000;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
     padding-bottom: 25px;
