@@ -578,3 +578,6 @@ body {
     margin-bottom: 0;
    border: double #ffffff;
 }
+.aboutTable > p {
+    font-size: 14px;
+}
