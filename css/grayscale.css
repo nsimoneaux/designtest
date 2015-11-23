@@ -568,5 +568,6 @@ body {
 }
 .headshot{
    margin: 10px;
+    margin-bottom: 0;
    border: double #ffffff;
 }
