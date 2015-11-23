@@ -530,6 +530,7 @@ body {
 .slide4 {
     bottom: 0;
     top: auto;
+    font-size: 30px;
 }
 
 
@@ -561,6 +562,9 @@ body {
         bottom: auto;
     }
     .slide3 > p {
+        font-size: 16px;
+    }
+    .slide4 > p {
         font-size: 16px;
     }
     
