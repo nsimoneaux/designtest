@@ -297,7 +297,6 @@ a:focus {
     padding-bottom: 25px;
 }
 .attorneyName {
-    font-size: 24px;
     padding-top: 5px;
     background-color: rgb(102, 51, 51);
     text-decoration: underline;
@@ -476,10 +475,14 @@ body {
 
 @media(max-width:600px){
     .attorneyHeader{
-        font-size: 20px;
+        font-size: 24px;
     }
     .aboutHeading{
-        font-size: 20px;
+        font-size: 24px;
+    }
+    .attorneyName > h3 {
+    margin: 4px;
+    font-size: 20px;
     }
 }
 
