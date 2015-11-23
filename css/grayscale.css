@@ -350,7 +350,7 @@ a:focus {
     width: 100%;
     padding: 25px;
     color: #fff;
-    background: url(../img/building1920.jpg) no-repeat bottom    scroll;
+    background: url(../img/building1920.jpg) no-repeat bottom fixed;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -623,7 +623,7 @@ body {
     height: auto;
     text-align: center;
     color: #fff;
-    background: url(../img/bobandmattserious.jpg) no-repeat bottom right fixed;
+    background: url(../img/bobandmattserious.jpg) no-repeat bottom right scroll;
     background-position: center center;
     background-color: #000;
     -webkit-background-size: cover;
