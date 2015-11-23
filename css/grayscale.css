@@ -511,7 +511,9 @@ body {
     
 }
 .slide3 > p {
-    font-size: 32px;
+    font-size: 36px;
+    width:75%;
+    margin:0 auto;
 }
 
 
