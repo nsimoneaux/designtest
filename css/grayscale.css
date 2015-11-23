@@ -389,6 +389,7 @@ a:focus {
     -webkit-transition: all .3s ease-in-out;
     -moz-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
+    text-shadow: none;
 }
 
 .btn-default {
