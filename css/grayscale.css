@@ -300,8 +300,8 @@ a:focus {
     font-size: 24px;
     padding-top: 5px;
     background-color: rgb(102, 51, 51);
-    border: 1px single white;
-    padding: 2px;
+    text-decoration: underline;
+    text-decoration-color: white;
     text-shadow: none;
 }
 
