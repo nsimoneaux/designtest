@@ -673,7 +673,7 @@ body {
     font-size: 24px;
     }
     
-    .practice-section > ul {
+    .practice-section > .btn {
     text-align: center;
     display: block;
     margin: 0 auto;
@@ -684,7 +684,7 @@ body {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
     background-color: white;
-    width: 100%;
+    width: 80%;
     }
     
     .intro {
