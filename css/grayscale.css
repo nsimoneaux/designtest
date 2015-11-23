@@ -318,6 +318,7 @@ a:focus {
     margin: 10px auto;
     display: block;
     border: double;
+    text-shadow: 2px 2px 0 black;
 }
 
 .bio > p {
