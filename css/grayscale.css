@@ -309,7 +309,7 @@ a:focus {
     padding-bottom: 15px;
     padding-top: 15px;
     display: block;
-    border-radius: 10px;
+    border: double
 }
 
 .bio > p {
@@ -460,11 +460,15 @@ body {
     font-size: 32px;
     text-decoration: underline;
     text-decoration-style: double;
+    text-decoration-color: white;
 }
 .aboutHeading{
     padding-top: 20px;
     text-align: center;
     font-size: 32px;
+    text-decoration: underline;
+    text-decoration-style: double;
+    text-decoration-color: white;
 }
 
 @media(max-width:600px){
@@ -562,5 +566,5 @@ body {
 }
 .headshot{
    margin: 25px;
-   border: 4px double #ffffff;
+   border: 1px double #ffffff;
 }
