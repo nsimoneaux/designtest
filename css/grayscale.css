@@ -578,6 +578,13 @@ body {
     margin-bottom: 0;
    border: double #ffffff;
 }
-.aboutTable > p {
+.aboutTableCell > p {
     font-size: 14px;
+}
+.aboutTable {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.imageRow{
+    background-color: white;
 }
