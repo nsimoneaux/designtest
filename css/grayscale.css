@@ -682,6 +682,13 @@ body {
     font-size: 24px;
     }
     
+    .practice-section > ul {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding: 0 auto;
+}
+    
     .btn-default {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
