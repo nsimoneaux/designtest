@@ -653,7 +653,7 @@ body {
 
 .practice-section > ul {
     list-style: none;
-    text-align: left;
+    text-align: center;
 }
 .practice-section > ul > li {
     margin: 10px;
