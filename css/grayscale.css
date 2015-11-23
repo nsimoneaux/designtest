@@ -302,6 +302,7 @@ a:focus {
     background-color: rgb(102, 51, 51);
     border: single white;
     padding: 2px;
+    text-shadow: none;
 }
 
 
