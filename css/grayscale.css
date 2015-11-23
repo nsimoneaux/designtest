@@ -508,11 +508,6 @@ body {
     .about > ul > li > p{
         font-size: 14px;
     }
-    
-    .practice-section > h2 {
-    padding-top: 50px;
-    font-size: 24px;
-    }
 
 }
 
@@ -676,4 +671,11 @@ body {
 
 .specific-practice > ul > li {
     font-size: 20px;   
+}
+
+@media(max-width:600px){
+    .practice-section > h2 {
+    padding-top: 50px;
+    font-size: 24px;
+    }
 }
