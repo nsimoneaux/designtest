@@ -496,12 +496,22 @@ body {
     font-size: 40px;
 }
 
+.contactHeader{
+    margin: 20px;
+    font-size: 40px;
+    padding-top: 50px;
+}
+
 @media(max-width:600px){
     .attorneyHeader{
         font-size: 24px;
     }
     
     .aboutHeading{
+        font-size: 24px;
+    }
+    
+    .contactHeader{
         font-size: 24px;
     }
     
