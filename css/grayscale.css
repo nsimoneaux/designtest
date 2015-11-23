@@ -644,15 +644,9 @@ body {
     font-size: 40px;
 }
 
-.practice-section > ul {
-    list-style: none;
-    text-align: left;
-    display: block;
-    margin: 0 auto;
-    padding: 0 auto;
-}
-.practice-section > ul > li {
+.practice-section > .btn {
     margin: 10px;
+    display: block;
 }
 
 .specific-practice > h1 {
@@ -672,9 +666,6 @@ body {
     font-size:24px;
 }
 
-.specific-practice > ul > li {
-    font-size: 20px;   
-}
 
 @media(max-width:600px){
     .practice-section > h2 {
