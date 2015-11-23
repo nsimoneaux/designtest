@@ -288,10 +288,6 @@ a:focus {
     list-style: circle;
     text-align: left;
 }
-.about > ul {
-        width: 60%;
-    margin 0 auto;
-}
 
 .imageRow{
     background-color: white;
