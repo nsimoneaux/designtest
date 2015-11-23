@@ -308,7 +308,7 @@ a:focus {
     display: table;
     margin: 10px auto;
     display: block;
-    border: double
+    border: double;
 }
 
 .bio > p {
@@ -559,5 +559,5 @@ body {
 }
 .headshot{
    margin: 10px;
-   border: 1px double #ffffff;
+   border: double #ffffff;
 }
