@@ -294,6 +294,7 @@ a:focus {
     -o-background-size: cover;
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black;
+    padding-bottom: 25px;
 }
 .attorney-section > h3 {
     font-size: 24px;
