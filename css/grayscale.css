@@ -296,7 +296,7 @@ a:focus {
         2px 2px 5px black;
 }
 .attorney-section > h3 {
-    font-size: 32px;
+    font-size: 24px;
 }
 
 .bio {
@@ -313,7 +313,7 @@ a:focus {
 
 .bio > p {
         text-align: left;
-        margin: 10px auto;
+        margin: 10px;
         font-size: 16px;
         text-indent: 25px;
         text-shadow: none;
