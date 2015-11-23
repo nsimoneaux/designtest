@@ -559,6 +559,8 @@ body {
 .slide4 {
     bottom: 0;
     top: auto;
+}
+.slide4 > p {
     font-size: 30px;
 }
 
