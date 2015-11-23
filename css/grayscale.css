@@ -506,7 +506,7 @@ body {
     font-size: 32px;
 }
 .slide3 {
-    top: 25%;
+    top: 0;
     bottom: auto;
     width:80%;
     margin:0 auto;
