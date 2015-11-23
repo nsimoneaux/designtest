@@ -502,6 +502,10 @@ body {
     font-size: 20px;
     }
     
+    .about > p{
+        font-size: 14px;
+    }
+    
 }
 
 .carousel-inner > .item > img {
