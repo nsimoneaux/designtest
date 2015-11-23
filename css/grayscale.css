@@ -296,6 +296,9 @@ a:focus {
     margin: 10px auto;
     text-align: center;
 }
+.imageRow > img {
+    padding: 5px;
+}
 
 .attorney-section {
     text-align: center;
