@@ -581,7 +581,7 @@ body {
 }
 
 #about-carousel .carousel-inner .item {
-    width: auto;
+    width: 100%;
     height: 60%;
 }
 
