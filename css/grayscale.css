@@ -645,10 +645,10 @@ body {
     font-size: 40px;
 }
 
-.practice-section > div > ul {
+.practice-section > ul {
     list-style: none;
     text-align: left;
 }
-.practice-section >div > ul > li {
+.practice-section > ul > li {
     margin: 10px;
 }
