@@ -508,6 +508,11 @@ body {
     .about > ul > li > p{
         font-size: 14px;
     }
+    
+    .practice-section > h2 {
+    padding-top: 50px;
+    font-size: 24px;
+}
 
 }
 
