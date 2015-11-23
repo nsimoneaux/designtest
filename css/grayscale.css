@@ -395,7 +395,7 @@ a:focus {
     border: 1px solid rgb(183, 125, 125);
     color: rgb(183, 125, 125);
     background-color: white;
-    width: 100%;
+    width: 300px;
 }
 
 .btn-default:hover,
@@ -648,6 +648,8 @@ body {
     list-style: none;
     text-align: center;
     display: block;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 .practice-section > ul > li {
     margin: 10px;
@@ -678,6 +680,12 @@ body {
     .practice-section > h2 {
     padding-top: 50px;
     font-size: 24px;
-        
     }
+    
+    .btn-default {
+    border: 1px solid rgb(183, 125, 125);
+    color: rgb(183, 125, 125);
+    background-color: white;
+    width: 100%;
+    }   
 }
