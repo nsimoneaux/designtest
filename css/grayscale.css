@@ -162,6 +162,10 @@ a:focus {
         3px 3px 0px white ;
 }
 
+.introBackground{
+    background-color: rgba(255,255,255,.05)
+}
+
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
