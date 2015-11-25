@@ -163,13 +163,13 @@ a:focus {
 }
 
 .introBackground{
-    background-color: rgba(255,255,255,.90);
+    background-color: rgba(255,255,255,.85);
     border: double rgb(102,51,51);
     margin-top: 50px;
 }
 
 .introTextBackground{
-    background-color: rgba(255,255,255, 1);
+    background-color: rgba(255,255,255, .85);
     border: 2px single rgb(102,51,51);
     width: 100%;
     margin: 10% auto;
