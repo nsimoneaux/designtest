@@ -157,9 +157,9 @@ a:focus {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    text-shadow: 2px 2px 2px white,
+   /* text-shadow: 2px 2px 2px white,
         2px 2px 5px white,
-        2px 2px 10px white;
+        2px 2px 10px white ;*/
 }
 
 .intro .intro-body {
