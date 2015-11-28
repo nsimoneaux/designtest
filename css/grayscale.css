@@ -750,7 +750,8 @@ body {
 }
 
 .thumbnail{
-    padding-top: 15px;
+    padding: 15px;
+    
 }
 .personal-title{
     padding: 5px;
