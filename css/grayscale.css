@@ -751,6 +751,10 @@ body {
     .practice-section{
         background: none;
     }
+    .practiceHeading{
+        width: 100%;
+        margin: 0 auto;
+    }
 }
 
 .thumbnail{
