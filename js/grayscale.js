@@ -164,11 +164,9 @@ function init() {
     });
 }
 
-jQuery(document).ready({
-
-});
 
 $(function() {
     $('[data-submenu]').submenupicker();
+    console.log("called");
 });
 
