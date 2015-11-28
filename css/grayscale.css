@@ -814,7 +814,7 @@ body {
     margin-top: 50px;
 }
 
-.bio-section > div > .personal-title{
+.bio-section > div > div > .personal-title{
     padding: 5px;
     /*margin: 5%;*/
     line-height: 1;
