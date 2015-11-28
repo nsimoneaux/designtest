@@ -823,3 +823,7 @@ body {
     text-align: center;
     text-indent: none;
 }
+
+.bio-section > div > div > .licenses{
+    font-size: 14px;
+}
