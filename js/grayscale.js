@@ -163,3 +163,5 @@ function init() {
         icon: image
     });
 }
+
+$('[data-submenu]').submenupicker();
