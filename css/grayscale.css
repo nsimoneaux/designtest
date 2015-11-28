@@ -542,6 +542,9 @@ body {
     .about > ul > li > p{
         font-size: 14px;
     }
+    .bio{
+        width:85%;
+    }
 
 }
 
