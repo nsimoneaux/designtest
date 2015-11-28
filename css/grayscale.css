@@ -805,7 +805,7 @@ body {
 .bio-section > h1{
     padding-top: 100px;
 }
-.bio-section > div > p {
+.bio-section > div > div > p {
     text-align: left;
     font-size: 14px;
     text-indent: 5%;
