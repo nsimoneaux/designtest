@@ -810,4 +810,6 @@ body {
     font-size: 14px;
     text-indent: 5%;
 }
-.
+.bio-section > div > .headshot {
+    margin-top: 50px;
+}
