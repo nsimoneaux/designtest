@@ -13,6 +13,8 @@ $(window).scroll(function() {
     }
 });
 
+$('[data-submenu]').submenupicker();
+
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
