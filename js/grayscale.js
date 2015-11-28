@@ -13,8 +13,6 @@ $(window).scroll(function() {
     }
 });
 
-$('[data-submenu]').submenupicker();
-
 // jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
@@ -27,7 +25,7 @@ $(function() {
 });
 
 // Closes the Responsive Menu on Menu Item Click
-$(".terminal-link").click(function() {
+$('.terminal-link').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
