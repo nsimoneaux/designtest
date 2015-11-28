@@ -830,3 +830,13 @@ body {
     font-size: 14px;
     margin: 5px;
 }
+
+@media(max-width:600px){
+    .bio-section{
+        background: none;
+    }
+    
+    .bio-section > bio {
+        width: 90%;
+    }
+}
