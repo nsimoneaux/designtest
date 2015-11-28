@@ -117,6 +117,8 @@
     this.$items = this.$menu.children('.dropdown-submenu');
 
     this.init();
+      
+      console.log(this.$element);
   }
 
   Submenupicker.prototype = {
