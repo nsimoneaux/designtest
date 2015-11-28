@@ -164,7 +164,7 @@ function init() {
     });
 }
 
-jQuery(document).ready(
+jQuery(document).ready({
 $('[data-submenu]').submenupicker();
-);
+});
 
