@@ -142,6 +142,7 @@ a:focus {
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
+    color: white;
 }
 
 .dropdown-menu li a:hover {
