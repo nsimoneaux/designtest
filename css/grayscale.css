@@ -801,3 +801,7 @@ body {
     padding-bottom: 25px;
     margin-bottom:20px;
 }
+
+.bio-section > h1{
+    padding-top: 50px;
+}
