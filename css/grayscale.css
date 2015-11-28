@@ -813,3 +813,9 @@ body {
 .bio-section > div > .headshot {
     margin-top: 100px;
 }
+
+.bio-section > div > .personal-title{
+    padding: 5px;
+    /*margin: 5%;*/
+    line-height: 1;
+}
