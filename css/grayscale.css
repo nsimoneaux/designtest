@@ -821,7 +821,7 @@ body {
     line-height: 1;
     font-size: 20px;
     text-align: center;
-    text-indent: none;
+    text-indent: 0;
 }
 
 .bio-section > div > div > .licenses{
