@@ -355,7 +355,7 @@ a:focus {
     width: 60%;
     position: relative;
     display: table;
-    margin: 10px auto;
+    margin: 25px auto;
     display: block;
     border: double;
     text-shadow: 2px 2px 0 black;
@@ -544,6 +544,7 @@ body {
     }
     .bio{
         width:85%;
+        margin: 10px auto;
     }
 
 }
