@@ -772,3 +772,6 @@ body {
 .bio > div > h3 {
     margin: 10px auto;
 }
+.bio > div > p > a {
+    margin: 10px auto;
+}
