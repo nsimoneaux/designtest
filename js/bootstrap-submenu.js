@@ -118,7 +118,7 @@
 
     this.init();
       
-      console.log(this.$element);
+    console.log("yo!");
   }
 
   Submenupicker.prototype = {
