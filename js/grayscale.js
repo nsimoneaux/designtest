@@ -165,6 +165,10 @@ function init() {
 }
 
 jQuery(document).ready({
-$('[data-submenu]').submenupicker();
+
+});
+
+$(function() {
+    $('[data-submenu]').submenupicker();
 });
 
