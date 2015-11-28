@@ -604,6 +604,10 @@ body {
     height: 60%;
 }
 
+#about-carousel{
+    border: double #ffffff;
+}
+
 @media(max-width:600px){
     .carousel-caption > p {
         font-size: 16px;
