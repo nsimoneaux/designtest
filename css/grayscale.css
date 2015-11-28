@@ -183,16 +183,6 @@ a:focus {
         border-bottom: 1px solid rgba(255,255,255,.3);
         background: rgb(102, 51, 51);
     }
-    
-    .dropdown-menu {
-        padding: 20px 0;
-        border-bottom: 1px solid rgba(102, 51, 51,.5);
-        letter-spacing: 1px;
-        background: rgba(160, 160, 160, .75);
-        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-        transition: background .5s ease-in-out,padding .5s ease-in-out;
-    }
 }
 
 .intro {
