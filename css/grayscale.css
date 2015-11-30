@@ -595,6 +595,7 @@ body {
     
     .contactHeader{
         font-size: 24px;
+        padding-top: 0;
     }
     
     .attorneyName > h3 {
