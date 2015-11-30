@@ -981,7 +981,7 @@ body {
     width: 100%;
     height: auto;
     background: url(../img/workerscomp.jpg) no-repeat fixed;
-    background-position: bottom;
+    background-position: right bottom;
     background-color: #FFF;
     -webkit-background-size: cover;
     -moz-background-size: cover;
