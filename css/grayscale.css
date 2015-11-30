@@ -64,6 +64,13 @@ a:focus {
     font-weight: 400;
 }
 
+.top-brand{
+    font-family: Copperplate;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: bold;
+}
+
 .navbar-custom {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
@@ -382,10 +389,10 @@ a:focus {
     margin: 10px auto;
     text-align: center;
 }
-.imageRow > img {
+/*.imageRow > img {
     padding: 5px;
     border: double white;
-}
+}*/
 
 .attorney-section {
     text-align: center;
