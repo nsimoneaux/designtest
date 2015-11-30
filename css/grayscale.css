@@ -1070,6 +1070,12 @@ body {
     width:100%;
     margin:0 auto;
     }
+    
+    .contact-text > p {
+        
+    font-size: 14px;    
+    }
+    
     .wrongful-death{
         background: none;
     }
