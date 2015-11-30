@@ -259,6 +259,10 @@ a:focus {
         font-size: 24px;
         /*margin: 50px;*/
     }
+    
+    .brand-heading {
+        margin: 0 auto;
+    }
 }
 
 .btn-circle {
