@@ -1038,8 +1038,9 @@ body {
     margin:0 auto;
 }
 .locationdiv > p {
-    margin: 5% auto;
+    margin: 0 auto;
     line-height: 1;
+    padding-bottom: 25px;
 }
 .contact-form{
     width: 70%;
