@@ -215,6 +215,7 @@ a:focus {
     -ms-filter: blur(4px);
     -o-filter: blur(4px);
     filter: blur(4px);
+    z-index: -2;
 }
 .introContent{
     width:100%;
