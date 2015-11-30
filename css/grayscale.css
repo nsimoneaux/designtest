@@ -688,10 +688,10 @@ body {
     width: 100%;
     margin: 0 auto;
 }
-
+/*
 #about-carousel .carousel-control { visibility: hidden; }
 #about-carousel:hover .carousel-control { visibility: hidden; }
-
+*/
 .about-text{
     width:75%; margin: 0 auto; text-indent: 5%;
 }
