@@ -966,7 +966,7 @@ body {
     width: 100%;
     height: auto;
     background: url(../img/malpractice2.jpg) no-repeat fixed;
-    background-position: center;
+    background-position: bottom;
     background-color: #FFF;
     -webkit-background-size: cover;
     -moz-background-size: cover;
