@@ -207,6 +207,10 @@ a:focus {
         3px 3px 5px black ;
 }
 
+.homescroll{
+    padding-bottom: 50px;
+}
+
 .introBackground{
     background-color: rgba(255,255,255,.85);
     border: double rgb(102,51,51);
