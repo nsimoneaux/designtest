@@ -356,8 +356,8 @@ a:focus {
 
 .contact-section{
     padding-top: 50px;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    /*margin-top: 50px;*/
+    /*margin-bottom: 50px;*/
 }
 .contact-section > h2{
     font-size: 40px;

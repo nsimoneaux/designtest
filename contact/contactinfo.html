@@ -85,8 +85,16 @@
                             <li><a href="../practice-areas/wrongful-death.html">Wrongful Death</a></li>
                         </ul>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="../index.html#contact">Contact</a>
+                    <li class="dropdown">
+                        <a href="#" tabindex="0" data-toggle="dropdown" data-submenu>Contact<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                        <li><a tabindex="0" class="page-scroll terminal-link" href="#contact">Overview</a></li>
+                        <li class="divider"></li>
+                        <li><a href="#location">Location</a></li>
+                        <li><a href="#hours">Hours</a></li>
+                        <li><a href="#email">Email Us</a></li>
+                        <li><a href="tel:970-221-0664" target="_self"><i class="fa fa-phone-square"></i> <span itemprop="telephone">970.221.0664</span></a></li>
+                        </ul>
                     </li>
                 </ul>
             </div>
@@ -105,9 +113,17 @@
             <h3 id="email">Email Us</h3>
             <div class="contact-form">
                 <form action="http://formspree.io/nsimoneaux@gmail.com">
-                    <input type="email" name="_replyto">
+                    <table>
+                        <tr>
+                            <td><p>Your Email Address: </p></td>
+                            <td><input type="email" name="_replyto"></td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
                     <textarea name="body"></textarea>
                     <input type="submit" value="Send">
+                    </table>
                 </form>
             </div>                
         </section>
