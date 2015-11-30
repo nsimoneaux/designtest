@@ -14,15 +14,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap-submenu.min.css">
     <script src="js/bootstrap-submenu.min.js" defer></script>
-    
-    <script>
-    $(window).scroll(function() {
-    $(".intro").css({
-    'opacity' : 1-(($(this).scrollTop())/25)
-        });          
-    });
-        
-    </script>
         
     <!-- Custom CSS -->
     <link href="css/grayscale.css" rel="stylesheet">
@@ -119,9 +110,9 @@
         <div class="intro-body text-center">
             <div class="container">
                 <div class="introBackground">
-                <h1 class="brand-heading" itemprop="name">Bling &amp; Associates, P.C.</h1>
+                <h1 style="display:none;" class="brand-heading" itemprop="name">Bling &amp; Associates, P.C.</h1>
                     </div>
-                <div class="introTextBackground">
+                <div style="height: 50%;" class="introTextBackground">
                         <p class="intro-text" itemprop="description">Attorneys who put <em>your</em> best interest<br> <em>first</em> and <em>foremost.</em><br><small>Serving Northern Colorado and Southern Wyoming.</small></p>
                 </div>
                         <a href="#about" class="btn btn-circle page-scroll">
