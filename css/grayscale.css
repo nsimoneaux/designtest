@@ -680,6 +680,10 @@ body {
 #about-carousel .carousel-control { visibility: hidden; }
 #about-carousel:hover .carousel-control { visibility: hidden; }
 
+.about-text{
+    width:75%; margin: 0 auto; text-indent: 5%;
+}
+
 @media(max-width:600px){
     .carousel-caption > p {
         font-size: 16px;
@@ -690,6 +694,9 @@ body {
     width: 100%;
     margin: 0 auto;
 }
+    .about-text{
+    width:100%; margin: 0 auto; text-indent: 5%;
+    }   
     
     #about-carousel .carousel-inner .item {
     width: 100%;
