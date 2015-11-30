@@ -655,12 +655,20 @@ body {
 
 #about-carousel{
     border: double #ffffff;
+    width: 80%;
+    margin: 0 auto;
 }
 
 @media(max-width:600px){
     .carousel-caption > p {
         font-size: 16px;
     }
+    
+    #about-carousel{
+    border: double #ffffff;
+    width: 100%;
+    margin: 0 auto;
+}
     
     #about-carousel .carousel-inner .item {
     width: 100%;
