@@ -677,6 +677,9 @@ body {
     margin: 0 auto;
 }
 
+#about-carousel .carousel-control { visibility: hidden; }
+#about-carousel:hover .carousel-control { visibility: visible; }
+
 @media(max-width:600px){
     .carousel-caption > p {
         font-size: 16px;
