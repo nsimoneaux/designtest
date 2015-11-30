@@ -196,7 +196,7 @@ a:focus {
     text-align: center;
     /*color: rgb(102, 51, 51);*/
     background: url(../img/frontdoor1920.jpg) no-repeat center fixed;
-    background-position: bottom;
+    background-position: center;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
