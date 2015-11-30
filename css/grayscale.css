@@ -463,6 +463,8 @@ a:focus {
     height: 200px;
     margin-top: 50px;
     margin-bottom: 50px;
+    border-top: double white;
+    border-bottom: double white;
 }
 
 @media(min-width:767px) {
