@@ -951,12 +951,12 @@ body {
     width: 100%;
     height: auto;
     background: url(../img/accidents.jpg) no-repeat fixed;
-    background-position: bottom;
+    background-position: center;
     background-color: #FFF;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    background-size: contain;
+    -o-background-size: contain;
     text-shadow: 2px 2px 2px black,
         2px 2px 5px black,
         2px 2px 10px black;
@@ -978,6 +978,21 @@ body {
 }
 
 .workers-comp{
+    width: 100%;
+    height: auto;
+    background: url(../img/workerscomp.jpg) no-repeat fixed;
+    background-position: bottom;
+    background-color: #FFF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-shadow: 2px 2px 2px black,
+        2px 2px 5px black,
+        2px 2px 10px black;
+}
+
+.social-security{
     width: 100%;
     height: auto;
     background: url(../img/workerscomp.jpg) no-repeat fixed;
