@@ -965,7 +965,7 @@ body {
 .malpractice{
     width: 100%;
     height: auto;
-    background: url(../img/malpractice.jpg) no-repeat fixed;
+    background: url(../img/malpractice2.jpg) no-repeat fixed;
     background-position: center;
     background-color: #FFF;
     -webkit-background-size: cover;
@@ -996,4 +996,8 @@ body {
     width:80%;
     margin:0 auto;
     /*text-align: center;*/
+}
+
+.specific-practice-content > p {
+    text-indent: 5%;
 }
