@@ -1040,3 +1040,7 @@ body {
 .locationdiv > p {
     margin: 0 auto;
 }
+.contact-form{
+    width: 50%;
+    margin: 0 auto;
+}
