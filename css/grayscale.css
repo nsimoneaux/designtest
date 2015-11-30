@@ -267,6 +267,7 @@ a:focus {
     
     .brand-heading {
         margin: 0 auto;
+        display: none;
     }
 }
 
