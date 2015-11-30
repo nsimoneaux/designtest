@@ -1037,3 +1037,6 @@ body {
     width:50%;
     margin:0 auto;
 }
+.locationdiv > p {
+    margin: 0 auto;
+}
