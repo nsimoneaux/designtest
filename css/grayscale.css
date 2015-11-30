@@ -1066,6 +1066,10 @@ body {
 }
 
 @media(max-width:600px){
+    .contact-text{
+    width:100%;
+    margin:0 auto;
+    }
     .wrongful-death{
         background: none;
     }
