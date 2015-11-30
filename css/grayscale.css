@@ -1095,4 +1095,10 @@ body {
         background: none;
     }
     
+    .specific-practice-content{
+    width:100%;
+    margin:0 auto;
+    /*text-align: center;*/
+}
+    
 }
