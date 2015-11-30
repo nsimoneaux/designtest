@@ -845,6 +845,9 @@ body {
         width: 100%;
         margin: 0 auto;
     }
+    .practiceHeading > p {
+        font-size: 14px;
+    }
 }
 
 .thumbnail{
