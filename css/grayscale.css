@@ -1007,6 +1007,21 @@ body {
         2px 2px 10px black;
 }
 
+.wrongful-death{
+    width: 100%;
+    height: auto;
+    background: url(../img/wrongfuldeath.jpg) no-repeat fixed;
+    background-position: bottom;
+    background-color: #FFF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-shadow: 2px 2px 2px black,
+        2px 2px 5px black,
+        2px 2px 10px black;
+}
+
 .specific-practice-content{
     width:80%;
     margin:0 auto;
