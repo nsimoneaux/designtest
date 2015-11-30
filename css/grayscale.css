@@ -192,7 +192,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    margin-top: 90px;
+    /*margin-top: 90px;*/
     text-align: center;
     /*color: rgb(102, 51, 51);*/
     background: url(../img/frontdoor21920.jpg) no-repeat center fixed;
@@ -941,4 +941,5 @@ body {
     height: auto;
     background-color: rgba(160,160,160,.85);
     border: double rgb(102,51,51);
+    margin-top: 150px;
 }
