@@ -15,8 +15,14 @@
     <link rel="stylesheet" href="css/bootstrap-submenu.min.css">
     <script src="js/bootstrap-submenu.min.js" defer></script>
     
-    
-
+    <script>
+    $(window).scroll(function() {
+    $(".intro").css({
+    'opacity' : 1-(($(this).scrollTop())/250)
+        });          
+    });
+    </script>
+        
     <!-- Custom CSS -->
     <link href="css/grayscale.css" rel="stylesheet">
     
