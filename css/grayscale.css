@@ -1067,7 +1067,7 @@ body {
     width: 100%;
     height: auto;
     background: url(../img/scenery.jpg) no-repeat fixed;
-    background-position: center;
+    background-position: center center;
     background-color: #FFF;
     -webkit-background-size: cover;
     -moz-background-size: cover;
