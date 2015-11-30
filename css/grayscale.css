@@ -1050,7 +1050,7 @@ body {
 .personal-injury{
     width: 100%;
     height: auto;
-    background: url(../img/injury.jpg) no-repeat fixed;
+    background: url(../img/injury2.jpg) no-repeat fixed;
     background-position: bottom;
     background-color: #FFF;
     -webkit-background-size: cover;
@@ -1122,6 +1122,9 @@ body {
     }
     .accidents{
         background: none;
+    }
+    .personal-injury{
+        none;
     }
     .contact-info-section{
         background: none;
