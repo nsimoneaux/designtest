@@ -195,7 +195,7 @@ a:focus {
     /*margin-top: 90px;*/
     text-align: center;
     /*color: rgb(102, 51, 51);*/
-    background: url(../img/courtroomblur.jpg) no-repeat center fixed;
+    background: url(../img/courtroom.jpg) no-repeat center fixed;
     background-position: center;
     background-color: #000;
     -webkit-background-size: cover;
@@ -205,6 +205,21 @@ a:focus {
     text-shadow: 1px 1px 0px black,
         2px 2px 2px black,
         3px 3px 5px black ;
+}
+.blurBox{
+    width:100%;
+    height:100%;
+    position: absolute;
+    -webkit-filter: blur(4px);
+    -moz-filter: blur(4px);
+    -ms-filter: blur(4px);
+    -o-filter: blur(4px);
+    filter: blur(4px);
+}
+.introContent{
+    width:100%;
+    height: 100%;
+    position: absolute;
 }
 
 .homescroll{
