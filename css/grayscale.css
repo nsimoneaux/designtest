@@ -795,6 +795,10 @@ body {
     font-size: 20px;
 }
 
+.practiceHeading{
+    width: 60%;
+    margin: 0 auto;
+}
 
 @media(max-width:600px){
     .practice-section > h2 {
@@ -863,10 +867,7 @@ body {
 .bio > div > p > a {
     margin: 10px auto;
 }
-.practiceHeading{
-    width: 60%;
-    margin: 0 auto;
-}
+
 .bio-section{
     width: 100%;
     height: auto;
