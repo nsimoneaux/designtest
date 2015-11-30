@@ -1099,6 +1099,42 @@ body {
     width:100%;
     margin:0 auto;
     /*text-align: center;*/
-}
+    }
+    
+    .specific-practice-content > h1 {
+        font-size: 24px;
+        text-align: center;
+        text-indent: 0;
+    }
+    
+    .specific-practice-content > h2 {
+        font-size: 22px;
+        text-align: center;
+        text-indent: 0;
+    }
+    
+    .specific-practice-content > h3 {
+        font-size: 20px;
+        text-align: center;
+        text-indent: 0;
+    }
+    
+    .specific-practice-content > h4 {
+        font-size: 18px;
+        text-align: center;
+        text-indent: 0;
+    }
+    
+    .specific-practice-content > h5 {
+        font-size: 16px;
+        text-align: center;
+        text-indent: 0;
+    }
+    
+    .specific-practice-content > h6 {
+        font-size: 14px;
+        text-align: center;
+        text-indent: 0;
+    }
     
 }
