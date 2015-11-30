@@ -384,6 +384,7 @@ a:focus {
 }
 .imageRow > img {
     padding: 5px;
+    border: double white;
 }
 
 .attorney-section {
