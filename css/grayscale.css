@@ -654,8 +654,8 @@ body {
 }
 
 #about-carousel{
-    border: double #ffffff;
-    width: 80%;
+    /*border: double #ffffff;*/
+    width: 100%;
     margin: 0 auto;
 }
 
