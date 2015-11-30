@@ -214,6 +214,8 @@ a:focus {
     /*/padding-top: 35px;*/
     bottom: 100%;
     top: auto;
+    width: 55%;
+    margin: 0 auto;
 }
 
 .introTextBackground{
