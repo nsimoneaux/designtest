@@ -1062,6 +1062,18 @@ body {
     margin: 0 auto;
 }
 
+.homefooter{
+    width: 100%;
+    height: auto;
+    background: url(../img/scenery.jpg) no-repeat fixed;
+    background-position: center;
+    background-color: #FFF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover; 
+}
+
 @media(max-width:600px){
     .contact-text{
     width:100%;
