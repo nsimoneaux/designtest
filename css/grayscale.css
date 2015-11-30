@@ -936,6 +936,7 @@ body {
 }
 
 .logo-image{
-    width:50%;
+    width:70%;
     margin: 0 auto;
+    height: auto;
 }
