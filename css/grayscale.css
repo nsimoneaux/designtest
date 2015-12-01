@@ -177,7 +177,7 @@ a:focus {
 } 
 
 
-@media(min-width:768px) {
+@media(min-width:800px) {
     .navbar-custom {
         padding: 20px 0;
         border-bottom: 1px solid rgba(102, 51, 51,.5);
@@ -595,7 +595,7 @@ body {
     padding-top: 50px;
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .attorneyHeader{
         font-size: 24px;
     }
@@ -696,7 +696,7 @@ body {
     width:75%; margin: 0 auto; text-indent: 5%;
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .carousel-caption > p {
         font-size: 16px;
     }
@@ -816,7 +816,7 @@ body {
     margin: 0 auto;
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .practice-section > h2 {
     padding-top: 50px;
     font-size: 24px;
@@ -933,7 +933,7 @@ body {
     margin: 5px;
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .bio-section{
         background: none;
     }
@@ -1100,7 +1100,7 @@ body {
     padding-top: 50px;
 }
 
-@media(max-width:600px){
+@media(max-width:768px){
     .contact-text{
     width:100%;
     margin:0 auto;
