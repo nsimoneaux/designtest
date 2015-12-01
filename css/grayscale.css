@@ -1178,4 +1178,8 @@ body {
         background: none;
     }
     
+    hr{
+        color: rgb(102,51,51);
+    }
+    
 }
