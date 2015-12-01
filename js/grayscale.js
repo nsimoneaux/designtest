@@ -154,14 +154,31 @@ function init() {
             window.open("https://www.google.com/maps/place/Ring+%26+Associates+PC/@40.5532179,-105.0694227,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0xcb07afdde5fff2e5");
     });
 
+    var pinColor = "663333";
+    var pinImage = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_letter&chld=%E2%80%A2|" + pinColor,
+        new google.maps.Size(21, 34),
+        new google.maps.Point(0,0),
+        new google.maps.Point(10, 34));
+    var pinShadow = new google.maps.MarkerImage("http://chart.apis.google.com/chart?chst=d_map_pin_shadow",
+        new google.maps.Size(40, 37),
+        new google.maps.Point(0, 0),
+        new google.maps.Point(12, 35));
+    
     // Custom Map Marker Icon - Customize the map-marker.png file to customize your icon
     /*var image = 'img/map-marker.png';*/
     var myLatLng = new google.maps.LatLng(40.552767, -105.066667);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
-        icon: image
+        icon: pinImage,
+        shadow: pinShadow
     });
+    //var marker = new google.maps.Marker({
+    //            position: new google.maps.LatLng(0,0), 
+    //            map: map,
+    //            icon: pinImage,
+    //            shadow: pinShadow
+    //        });
 }
 
 
