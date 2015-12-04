@@ -443,6 +443,7 @@ a:focus {
 .contact-section{
     width: 100%;
     padding: 25px;
+    padding-bottom: 0;
     color: #fff;
     background: url(../img/building1920.jpg) no-repeat bottom scroll;
     background-color: #000;
