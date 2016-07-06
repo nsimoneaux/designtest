@@ -1028,7 +1028,7 @@ body {
 .criminal{
     width: 100%;
     height: auto;
-    background: url(../img/criminal.png) no-repeat fixed;
+    background: url(../img/criminal.jpg) no-repeat fixed;
     background-position: right bottom;
     background-color: #FFF;
     -webkit-background-size: cover;
