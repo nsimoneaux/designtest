@@ -1024,6 +1024,22 @@ body {
         2px 2px 10px black;
 }
 
+
+.criminal{
+    width: 100%;
+    height: auto;
+    background: url(../img/criminal.jpg) no-repeat fixed;
+    background-position: right bottom;
+    background-color: #FFF;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-shadow: 2px 2px 2px black,
+        2px 2px 5px black,
+        2px 2px 10px black;
+}
+
 .social-security{
     width: 100%;
     height: auto;
