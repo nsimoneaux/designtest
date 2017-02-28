@@ -1198,6 +1198,10 @@ body {
     .homefooter{
         background: none;
     }
+    #top100{
+      height: 10%;
+      width: auto;
+    }
 }
 #40u40{
   height: 10%;
