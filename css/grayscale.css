@@ -1198,14 +1198,13 @@ body {
     .homefooter{
         background: none;
     }
+}
+#40u40{
+  height: 10%;
+  width: auto;
+}
 
-    #40u40{
-      height: 10%;
-      width: auto;
-    }
-
-    #top100{
-      height: 10%;
-      width: auto;
-    }
+#top100{
+  height: 10%;
+  width: auto;
 }
