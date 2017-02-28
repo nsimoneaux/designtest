@@ -1199,7 +1199,7 @@ body {
         background: none;
     }
     #top100{
-      height: 100px;
+      height: 150px;
       width: auto;
     }
 }
@@ -1209,6 +1209,6 @@ body {
 }
 
 #top100{
-  height: 100px;
+  height: 200px;
   width: auto;
 }
