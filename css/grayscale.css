@@ -534,6 +534,7 @@ footer {
 
 footer p {
     margin: 0;
+    margin: auto;
 }
 
 ::-moz-selection {
